@@ -64,7 +64,7 @@
      "name": "Test 7 -datos de entrada: 2 2 D",
      "setup": "g++ -g -o main main.cpp Video.cpp Serie.cpp Pelicula.cpp Episodio.cpp Poliformismo.cpp",
      "run": "./main",
-     "input": "4 4 10",
+     "input": "2 2 D",
      "output":"101 P2 178 D 90.000000 2\nTotal = 1\n",
      "comparison": "included",
      "timeout": 2,
