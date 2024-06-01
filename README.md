@@ -12,33 +12,39 @@
 
 # CASOS DE PRUEBA
 
+```
 # Caso 1
 Datos de entrada:
-1
-1
-100
+1 
+1 
+100 
+
 
 Datos de salida:
-100 P1 100 A 100.000000 1
-101 P2 200 A 100.000000 2
-Total = 2
+100 P1 100 A 100.000000 1 
+101 P2 200 A 100.000000 2 
+Total = 2 
+
 
 
 # Caso 2
 Datos de entrada:
-1
-2
-C
+1 
+2 
+C 
+
 
 Datos de salida:
-102 P3 100 C 90.000000 3
-Total = 1
+102 P3 100 C 90.000000 3 
+Total = 1 
+
 
 
 # Caso 3
 Datos de entrada:
-1
-3
+1 
+3 
+
 
 Datos de salida:
 100 P1 100 A 100.000000 1
