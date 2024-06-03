@@ -13,15 +13,14 @@
 
 
 /*
-Añade por favor en cada clase este comentario con toda tu información 
-Nombre:
-Matricula:
-Carrera:
-Fecha: 
-Reflexión:
+Añade por favor en cada clase este comentario con toda tu información
+Nombre: Victor Rene Martinez P
+Matricula: A01178503
+Carrera: IDM
+Fecha: 2 de Junio 2024
+Reflexión: Las Reflexiones estan en el apartado de cada H de la clase
 - ¿Qué aprendí en el desarrollo de esta clase?
 */
-
 #include <iostream>
 #include "Video.h"
 #include "Episodio.h"
